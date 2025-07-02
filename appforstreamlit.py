@@ -4,6 +4,7 @@ import pandas as pd
 import numpy as np
 import streamlit as st
 
+st.sidebar.markdown("👤 Developed by B Vivekananda Raju")
 st.title('Uber Pickups in NYC')
 
 DATE_COLUMN='date/time'
